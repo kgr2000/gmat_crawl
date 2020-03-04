@@ -11,5 +11,8 @@
   "dependencies": {
     "puppeteer": "^2.1.1",
     "xlsx": "^0.15.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6"
   }
 }
